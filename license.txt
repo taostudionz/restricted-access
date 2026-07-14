@@ -1,4 +1,4 @@
-Force Login - Make your WordPress site private
+Restricted Access
 
 Copyright (C) 2014 by the contributors
 
